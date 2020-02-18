@@ -1,0 +1,1 @@
+set NODE_EXTRA_CA_CERTS=certs\BASF_CA_CERTS.pem

@@ -1,0 +1,8 @@
+# Environment variables
+.env
+*-audit.json
+*.gzip
+*.log
+
+# Dependency directories
+node_modules
